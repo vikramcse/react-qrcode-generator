@@ -1,0 +1,32 @@
+{
+  "name": "webpack-react-starter",
+  "version": "1.0.0",
+  "description": "A starter template for webpack and react",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --content-base build/",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikramcse/webpack-react-starter.git"
+  },
+  "keywords": [
+    "webpack",
+    "react",
+    "starter"
+  ],
+  "author": "Vikram Jadhav",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.4.5",
+    "babel-loader": "^6.2.1",
+    "babel-preset-react": "^6.3.13",
+    "react-dom": "^0.14.7",
+    "webpack": "^1.12.12"
+  },
+  "dependencies": {
+    "react": "^0.14.7",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
