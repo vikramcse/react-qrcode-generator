@@ -1,8 +1,9 @@
-# Webpack React Starter Kit
+# React QR Code Generator
+QR code generator App in react
 
 ## Getting Started
 
-    git clone https://github.com/vikramcse/webpack-react-starter.git
+    git clone https://github.com/vikramcse/react-qrcode-generator.git
     cd webpack-react-starter
     npm install
     npm start

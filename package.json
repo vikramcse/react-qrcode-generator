@@ -1,7 +1,7 @@
 {
-  "name": "webpack-react-starter",
+  "name": "react-qrcode-generator",
   "version": "1.0.0",
-  "description": "A starter template for webpack and react",
+  "description": "QR code generator App in react",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --content-base build/",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vikramcse/webpack-react-starter.git"
+    "url": "git+https://github.com/vikramcse/react-qrcode-generator.git"
   },
   "keywords": [
-    "webpack",
+    "QR Code",
     "react",
-    "starter"
+    "App"
   ],
   "author": "Vikram Jadhav",
   "license": "MIT",
